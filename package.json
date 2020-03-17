@@ -1,0 +1,19 @@
+{
+  "name": "beauty-checkin",
+  "version": "1.0.0",
+  "description": "Projekt kreatora beauty-checkin",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass assets/css/style.scss assets/css/style.css -w"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "start"
+  ],
+  "author": "bartol",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
